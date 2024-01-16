@@ -1,0 +1,26 @@
+{
+  "name": "CssDemo",
+  "id": "1329101823179484811",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [
+    "codegen",
+    "vscode"
+  ],
+  "enableProposedApi": false,
+  "editorType": [
+    "dev"
+  ],
+  "ui": "ui.html",
+  "codegenLanguages": [
+    {
+      "label": "Language Label",
+      "value": "language-value"
+    }
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
